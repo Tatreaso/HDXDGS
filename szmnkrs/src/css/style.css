@@ -1,0 +1,20 @@
+body {
+    background-image: url(../img/kep.png);
+}
+.containerbd {
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 4px solid rgba(181, 184, 221, 0.8);
+    border-style: ridge;
+}
+.kekborder td {
+    border: 2px solid blue;
+}
+.feketebgc {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.feherbgc {
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.kekbgc {
+    background-color: rgba(181, 184, 221, 0.121);
+}
